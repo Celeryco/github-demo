@@ -1,8 +1,8 @@
 # Starter Web Project
+This is a sample whatever to learn how to use Git and Github
 
 ## Introduction
-
-This is a sample wahtever to learn how to use Git and Github
+This example is to show differents parts of the Git repository and various commands using a web.
 
 ## Purpose
 
