@@ -2,5 +2,6 @@
 *.docx
 *.log
 *.tmp
+*.orig
 
 log/
