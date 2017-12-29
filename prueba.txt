@@ -3,3 +3,6 @@ Ozhezy
 Ozheno
 
 Para branch copyright
+
+
+Estos cambios se estan haciendo en master, no en realwork
