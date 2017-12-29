@@ -8,6 +8,7 @@ This example is to show differents parts of the Git repository and various comma
 Provide simple examples for Git training demos.
 
 ## Deployment
+This never ends rip
 
 ## How to Contribute
-
+Doing things
