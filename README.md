@@ -12,3 +12,6 @@ This never ends rip
 
 ## How to Contribute
 Doing things
+
+##Copyright
+2014 Git.Training
