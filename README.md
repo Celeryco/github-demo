@@ -12,6 +12,7 @@ This never ends rip
 
 ## How to Contribute
 Doing things
+Plz no errors
 
 ##Copyright
 2014 Git.Training
