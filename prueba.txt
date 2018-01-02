@@ -6,3 +6,6 @@ Para branch copyright
 
 Para branch realwork
 Estos cambios se estan haciendo en master, no en realwork
+
+
+Causando conflictos para rebase.
