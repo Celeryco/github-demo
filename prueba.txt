@@ -14,3 +14,6 @@ Causando conflictos para rebase en master.
 Mas cosas para el conflicto.
 
 Despues del conflict.
+
+
+Para rebase con pull de Github.
