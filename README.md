@@ -3,6 +3,9 @@ This is a sample whatever to learn how to use Git and Github.
 Adding a line for rebasing.
 Adding more changes to myfeature branch.
 
+Emergency Fix after stash
+
+
 ## Introduction
 This example is to show differents parts of the Git repository and various commands using a web.
 
