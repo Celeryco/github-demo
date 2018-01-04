@@ -18,3 +18,4 @@ Plz no errors
 
 ##Copyright
 2014 Git.Training
+All Right Reserved
